@@ -1,4 +1,4 @@
-## Original README.mdi
+## Original README.md
 Plaese refer to [README_mmrot.md](https://github.com/ausmlab/building_OBB/blob/main/README_mmrot.md).
 
 ## Installation
@@ -51,6 +51,6 @@ Then, run `MakeOBBAnnotations.py` to make OBB annotations from polygon.
 
 ## Training/Testing
 - There are config files that I used in the `./configs/bldg_redet`  and `configs/bldg_roi_trans`.
-- You have to change 'DATA_ROOT'to your own path.
+- You have to change 'DATA_ROOT' to your own path.
 - You can use each file to train and test the model. Please refer to detailed option at [get_started.md](https://github.com/ausmlab/building_OBB/blob/main/docs/en/get_started.md).
  
